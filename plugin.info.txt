@@ -1,7 +1,7 @@
 base   actionrenderer
 author Andreas Gohr
 email  andi@splitbrain.org
-date   2020-02-20
+date   2022-07-15
 name   actionrenderer plugin
 desc   Allow overwriting default XHTML render actions
 url    https://www.dokuwiki.org/plugin:actionrenderer
