@@ -66,7 +66,7 @@ class renderer_plugin_actionrenderer extends Doku_Renderer_xhtml
     }
 
     /** @inheritDoc */
-    public function header($text, $level, $pos)
+    public function header($text, $level, $pos, $returnonly = false)
     {
         return $this->trigger(__FUNCTION__, func_get_args());
     }
